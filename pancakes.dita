@@ -1,16 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_wps_k1r_kz">
-    <title></title>
+    <title>How to make pancakes</title>
     <shortdesc/>
-    <taskbody>
-        <context>
-            <p></p>
-        </context>
-        <steps>
-            <step>
-                <cmd></cmd>
-            </step>
-        </steps>
-    </taskbody>
+        <taskbody>
+            <context>
+                <p> Here are the kitchen supplies needed for this recipe.</p>
+                <ul>
+                    <li>Large bowl</li>
+                    <li>Griddle or frying pan</li>
+                </ul>
+                <p>Here are the food ingredients needed for this recipe. </p>
+                <ul>
+                    <li>1 cup all-purpose flour</li>
+                    <li>2 tbsp white sugar</li>
+                    <li>2 tsp baking powder</li>
+                    <li>1 egg, beaten</li>
+                    <li audience="mom">1 cup milk</li>
+                    <li audience="armando">1 cup almond milk</li>
+                    <li>2 tbsp vegetable oil</li>
+                </ul>
+            </context>
+            <steps>
+                <step>
+                    <cmd>In a large bowl, mix flour, sugar, baking powder, and salt.</cmd>
+                </step>
+                <step>
+                    <cmd>Make a well in the center, and pour in milk, egg, and oil. Mix until smooth.</cmd>
+                </step>
+                <step>
+                    <cmd>Heat a lightly oiled griddle or frying pan over medium high heat.</cmd>
+                </step>
+                <step>
+                    <cmd>Pour or scoop batter on to the griddle, using approximately 1/4 cup for each pancake.</cmd>
+                </step>
+                <step>
+                    <cmd>Cook until both sides are brown.</cmd>
+                </step>
+            </steps>
+        </taskbody>
 </task>

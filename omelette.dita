@@ -23,14 +23,35 @@
                 <li>1 small zucchini, chopped</li>
                 <li>1 small onion, chopped</li>
                 <li>¼ green pepper, chopped</li>
-                <li>½ cup sausage, chopped</li>
-                <li>¼ cups cheddar cheese, shredded</li>
+                <li audience="mom">½ cup sausage, chopped</li>
+                <li audience="mom">¼ cups cheddar cheese, shredded</li>
             </ul>
             <p></p>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Melt 1 tbsp of butter in medium skillet over medium heat. </cmd>
+            </step>
+            <step>
+                <cmd>Place tomato, zucchini, onion, and green pepper in the skillet and cook for 4-5 minutes until vegetables are tender.</cmd>
+            </step>
+            <step>
+                <cmd>While vegetables are cooking, beat the eggs with the milk, 1/2 salt, and pepper in a large mixing bowl.</cmd>
+            </step>
+            <step>
+                <cmd>Remove the vegetables from the skillet and transfer into another bowl and sprinkle the remaining 1/4 of salt over them.</cmd>
+            </step>
+            <step>
+                <cmd>Melt the remaining tablespoon of butter in the skillet over medium heat. When
+                    the butter bubbles, pour the egg into the skillet and cook for 2 minutes.</cmd>
+            </step>
+            <step>
+                <cmd>Gently lift the edges of the omelette with the spatula to let the uncooked part
+                    of the eggs flow toward the edges and cook. Continue for 2-3 more minutes until
+                    the omelette looks dry.</cmd>
+            </step>
+            <step>
+                <cmd>Slide the omelette out of the skillet onto a play. Cut in half and serve.</cmd>
             </step>
         </steps>
     </taskbody>
