@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title/>
+ <topicref href="omelette.dita"/>
+ <topicref href="pancakes.dita"/>
+ <topicref href="bananabread.dita"/>
+ <topicref href="breakfastburrito.dita"/>
+ <topicref href="veganbreakfastburrito.dita"/>
+ <topicref href="biscuitsandgravy.dita"/>
+ <topicref href="vbiscuitsandgravy.dita"/>
+</map>

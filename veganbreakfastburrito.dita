@@ -4,51 +4,11 @@
     <title>How to make a vegan breakfast burrito bowl</title>
     <shortdesc/>
     <taskbody>
-        <context>
-            <p> Here are the kitchen supplies needed for this recipe.</p>
-            <ul>
-                <li>Medium-sized skillet</li>
-                <li>Whisk</li>
-                <li>Large bowl</li>
-                <li>Spatula</li>
-            </ul>
-            <p>Here are the food ingredients needed for this recipe. </p>
-            <ul>
-                <li>2 tbsp butter</li>
-                <li>4 eggs</li>
-                <li>2 tbsp almond milk</li>
-                <li>¾ tsp salt</li>
-                <li>1/8 tsp freshly ground black pepper</li>
-                <li>1 medium tomato, chopped</li>
-                <li>1 small zucchini, chopped</li>
-                <li>1 small onion, chopped</li>
-                <li>¼ green pepper, chopped</li>
-            </ul>
+        <context conref="breakfastburrito.dita#breakfast-burrito/supplies">
         </context>
-        <steps>
+        <steps conref="breakfastburrito.dita#breakfast-burrito/steps">
             <step>
-                <cmd>Melt 1 tbsp of butter in medium skillet over medium heat. </cmd>
-            </step>
-            <step>
-                <cmd>Place tomato, zucchini, onion, and green pepper in the skillet and cook for 4-5 minutes until vegetables are tender.</cmd>
-            </step>
-            <step>
-                <cmd>While vegetables are cooking, beat the eggs with the milk, 1/2 salt, and pepper in a large mixing bowl.</cmd>
-            </step>
-            <step>
-                <cmd>Remove the vegetables from the skillet and transfer into another bowl and sprinkle the remaining 1/4 of salt over them.</cmd>
-            </step>
-            <step>
-                <cmd>Melt the remaining tablespoon of butter in the skillet over medium heat. When
-                    the butter bubbles, pour the egg into the skillet and cook for 2 minutes.</cmd>
-            </step>
-            <step>
-                <cmd>Gently lift the edges of the omelette with the spatula to let the uncooked part
-                    of the eggs flow toward the edges and cook. Continue for 2-3 more minutes until
-                    the omelette looks dry.</cmd>
-            </step>
-            <step>
-                <cmd>Slide the omelette out of the skillet onto a play. Cut in half and serve.</cmd>
+<cmd></cmd>
             </step>
         </steps>
     </taskbody>
