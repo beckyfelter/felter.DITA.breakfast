@@ -2,11 +2,12 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_bdy_y3m_lz">
  <title>Making a breakfast burrito bowl</title>
- <shortdesc>About making a breakfast burrito bowl</shortdesc>
+ <shortdesc></shortdesc>
  <conbody>
-  <p conref="c-disclaimer.dita#food/disclaimer">A breakfast burrito bowl is a dish composed of various breakfast items and vegetable
+  <p conref="c-disclaimer.dita#food/disclaimer"></p>
+  <p>A breakfast burrito bowl is a dish composed of various breakfast items and vegetable
    ingredients. This breakfast dish can be easily customized by subbing out different ingredients of
    your choosing. The recipe time varies based on one's choice of ingredients but usually circles
-   15-30 minutes. The recipe serves about 4 people. </p>
+   15-30 minutes. The recipe serves about 4 people.</p>
  </conbody>
 </concept>

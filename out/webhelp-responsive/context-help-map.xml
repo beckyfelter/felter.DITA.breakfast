@@ -7,4 +7,10 @@
    <appContext helpID="task_xx4_tyh_lz" path="veganbreakfastburrito.html"/>
    <appContext helpID="biscuits" path="biscuitsandgravy.html"/>
    <appContext helpID="task_xpn_szh_lz" path="vbiscuitsandgravy.html"/>
+   <appContext helpID="concept_sws_v3m_lz" path="c-omelette.html"/>
+   <appContext helpID="concept_b1t_z3m_lz" path="c-biscuits.html"/>
+   <appContext helpID="concept_bdy_y3m_lz" path="c-burritobowl.html"/>
+   <appContext helpID="concept_o4d_x3m_lz" path="c-pancakes.html"/>
+   <appContext helpID="concept_vr1_y3m_lz" path="c-bananabread.html"/>
+   <appContext helpID="food" path="c-disclaimer.html"/>
 </map>

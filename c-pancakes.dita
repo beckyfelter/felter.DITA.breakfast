@@ -2,9 +2,10 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_o4d_x3m_lz">
  <title>Making pancakes</title>
- <shortdesc>About the pancake recipe</shortdesc>
+ <shortdesc></shortdesc>
  <conbody>
-  <p conref="c-disclaimer.dita#food/disclaimer">Pancakes are a popular and easy-to-make breakfast food. A pancakes is a flat cake, often thin
+  <p conref="c-disclaimer.dita#food/disclaimer"></p>
+  <p>Pancakes are a popular and easy-to-make breakfast food. A pancakes is a flat cake, often thin
    and round, cooked on a hot surface such as a pan or griddle. The prep time is around 5 minutes,
    and the recipe takes approximately 10 minutes total. The recipe serves about 8 people.</p>
  </conbody>
