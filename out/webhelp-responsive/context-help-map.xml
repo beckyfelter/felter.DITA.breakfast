@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="task_a4f_3z3_kz" path="omelette.html"/>
+   <appContext helpID="task_wps_k1r_kz" path="pancakes.html"/>
+   <appContext helpID="task_rhj_qyh_lz" path="bananabread.html"/>
+   <appContext helpID="breakfast-burrito" path="breakfastburrito.html"/>
+   <appContext helpID="task_xx4_tyh_lz" path="veganbreakfastburrito.html"/>
+   <appContext helpID="biscuits" path="biscuitsandgravy.html"/>
+   <appContext helpID="task_xpn_szh_lz" path="vbiscuitsandgravy.html"/>
+</map>
