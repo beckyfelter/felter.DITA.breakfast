@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_sws_v3m_lz">
- <title>Omelette</title>
- <shortdesc></shortdesc>
+ <title>Making an omelette</title>
+ <shortdesc>About making an omelette</shortdesc>
  <conbody>
-  <p></p>
+  <p conref="c-disclaimer.dita#food/disclaimer">An omelette is a popular and easy-to-make breakfast dish. Omelettes can be customized to the
+   individual's liking, as ingredients are easily added or substituted. Recipe takes approximately
+   5-10 minutes.</p>
  </conbody>
 </concept>

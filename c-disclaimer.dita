@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="food">
+ <title>Disclaimer</title>
+ <shortdesc>Legal disclaimer</shortdesc>
+ <conbody>
+  <p id="disclaimer">If you have any special dietary requirements or medical conditions, consult a medical
+   professional before following any of the recipes contained in this book.</p>
+ </conbody>
+</concept>

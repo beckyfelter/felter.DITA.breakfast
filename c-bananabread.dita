@@ -4,8 +4,9 @@
  <title>Baking banana bread</title>
  <shortdesc>About baking banana bread</shortdesc>
  <conbody>
-  <p>Banana bread is a moist, sweet bread made from mashed bananas, perfect for breakfast. The best
+  <p conref="c-disclaimer.dita#food/disclaimer">Banana bread is a moist, sweet bread made from mashed bananas, perfect for breakfast. The best
    bananas to use in the recipe is over-ripe or at least half-browned. The prep time for this recipe
-   is around 10 minutes and the baking time is approximately 55 minutes. </p>
+   is around 10 minutes and the baking time is approximately 55 minutes. The recipe serves 8
+   people.</p>
  </conbody>
 </concept>

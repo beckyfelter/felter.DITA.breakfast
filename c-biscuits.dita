@@ -4,7 +4,7 @@
  <title>Making biscuits and gravy</title>
  <shortdesc>About making biscuits and gravy</shortdesc>
  <conbody>
-  <p>Biscuits and gravy is a classic Southern breakfast dish. The dish consists of a dough biscuit
+  <p conref="c-disclaimer.dita#food/disclaimer">Biscuits and gravy is a classic Southern breakfast dish. The dish consists of a dough biscuit
    covered in a type of gravy. The recipe serves 5 people and takes around 15-25 minutes to cook. </p>
  </conbody>
 </concept>
