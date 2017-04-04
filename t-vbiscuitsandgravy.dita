@@ -3,9 +3,9 @@
 <task id="task_xpn_szh_lz">
     <title>How to make vegan biscuits and gravy</title>
     <taskbody>
-        <context conref="biscuitsandgravy.dita#biscuits/supplies">
+        <context conref="t-biscuitsandgravy.dita#biscuits/supplies">
         </context>
-        <steps conref="biscuitsandgravy.dita#biscuits/steps">
+        <steps conref="t-biscuitsandgravy.dita#biscuits/steps">
             <step>
                 <cmd></cmd>
             </step>

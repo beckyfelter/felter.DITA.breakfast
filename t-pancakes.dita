@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_wps_k1r_kz">
+<task id="pancakes">
     <title>How to make pancakes</title>
-    <shortdesc/>
+    <shortdesc>Pancakes information and recipe</shortdesc>
         <taskbody>
             <context>
+                <p><image href="images/Pancakes.jpg" id="image_gg4_f54_lz"/></p>
                 <p> Here are the kitchen supplies needed for this recipe.</p>
                 <ul>
                     <li>Large bowl</li>

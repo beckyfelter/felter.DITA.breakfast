@@ -2,29 +2,31 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="breakfast-burrito">
     <title>How to make a breakfast burrito bowl</title>
-    <shortdesc/>
+    <shortdesc>Breakfast burrito bowl information and recipe</shortdesc>
     <taskbody>
-        <context id="supplies">
-            <p> Here are the kitchen supplies needed for this recipe.</p>
+        <context>
+            <p><image href="images/breakfast-bowl.jpg" id="image_ovw_c54_lz"/></p>
+            <p> Kitchen supplies needed for this recipe:</p>
             <ul>
-                <li>Medium-sized skillet</li>
-                <li>Whisk</li>
-                <li>Large bowl</li>
-                <li>Spatula</li>
+                <li>Vegetable peeler</li>
+                <li>Large frying pan</li>
+                <li>Non-stick pan</li>
+                <li>2 small bowls</li>
+                <li>Egg turner or spatula</li>
             </ul>
-            <p>Here are the food ingredients needed for this recipe. </p>
+            <p>Ingredients needed for this recipe: </p>
             <ul>
-                <li>1/2 oz. can of black beans</li>
+                <li>1/2 of a 15 oz. can of black beans</li>
                 <li>1 sweet potato</li>
                 <li>4 eggs</li>
                 <li>2 cups arugula</li>
-                <li>1 oz. cheddar cheese, grated</li>
+                <li audience="mom">1 oz. cheddar cheese, grated</li>
                 <li>1/2 avocado, sliced</li>
                 <li>1 tbsp olive oil</li>
-                <li>cilantro for garnish</li>
+                <li>Cilantro for garnish</li>
             </ul>
         </context>
-        <steps id="steps">
+        <steps>
             <step>
                 <cmd>Peel sweet potato and microwave for 4 minute.</cmd></step>
             <step>
@@ -43,7 +45,10 @@
                 <cmd>Divide arugula into two bowls.</cmd>
             </step>
             <step>
-                <cmd>Top greens with divided cooked sweet potato and beans, scrambled eggs, scliced avocado, and sprinkle with cheddar cheese.</cmd>
+                <cmd>Top greens with divided cooked sweet potato and beans, scrambled eggs, sliced avocado, and sprinkle with cheddar cheese.</cmd>
+            </step>
+            <step>
+                <cmd>Sprinkle grated cheddar cheese on top of the burrito bowl.</cmd>
             </step>
             <step>
                 <cmd>Add salt and pepper to taste.</cmd>

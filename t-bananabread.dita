@@ -1,38 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_rhj_qyh_lz">
+<task id="bananabread">
     <title>How to make banana bread</title>
-    <shortdesc/>
+    <shortdesc>Banana bread information and recipe</shortdesc>
     <taskbody>
         <context>
-            <p> Here are the kitchen supplies needed for this recipe.</p>
+            <p><image href="images/banana-bread5.jpg" id="image_tc5_xt4_lz"/></p>
+            <p>Kitchen supplies needed for this recipe:</p>
             <ul>
                 <li>Bread loaf pan</li>
                 <li>Sifter</li>
                 <li>Large bowl</li>
             </ul>
-            <p>Here are the food ingredients needed for this recipe. </p>
+            <p>Ingredients needed for this recipe: </p>
             <ul>
                 <li audience="mom">1/2 cup butter</li>
                 <li audience="armando">1/2 cup plain soy milk yogurt</li>
                 <li>1 cup sugar</li>
                 <li>2 eggs, beaten</li>
                 <li>3 bananas, finely crushed</li>
-                <li>1 1/2 cups flour</li>
-                <li>1 tsp baking soda</li>
+                <li>1 ½ cups flour</li>
+                <li id="salt">1 tsp baking soda</li>
                 <li>1/2 tsp salt</li>
                 <li>1/2 tsp vanilla</li>
             </ul>
         </context>
         <steps>
             <step>
-                <cmd>Preheat oven to 350 degrees</cmd>
+                <cmd>Preheat oven to 350 degrees.</cmd>
             </step>
-            <step>
-                <cmd audience="mom">Cream together butter and sugar.</cmd>
+            <step audience="mom">
+                <cmd>Cream together butter and sugar.</cmd>
             </step>
-            <step>
-                <cmd audience="armando">Cream together yogurt and sugar.</cmd>
+            <step audience="armando">
+                <cmd>Cream together plain soy dairy-free yogurt and sugar.</cmd>
             </step>
             <step>
                 <cmd>Add eggs and crushed bananas and combine well.</cmd>

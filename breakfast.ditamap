@@ -1,18 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
- <title/>
- <topicref href="omelette.dita"/>
- <topicref href="pancakes.dita"/>
- <topicref href="bananabread.dita"/>
- <topicref href="breakfastburrito.dita"/>
- <topicref href="veganbreakfastburrito.dita"/>
- <topicref href="biscuitsandgravy.dita"/>
- <topicref href="vbiscuitsandgravy.dita"/>
- <topicref href="c-omelette.dita"/>
- <topicref href="c-biscuits.dita"/>
- <topicref href="c-burritobowl.dita"/>
- <topicref href="c-pancakes.dita"/>
- <topicref href="c-bananabread.dita"/>
- <topicref href="c-disclaimer.dita"/>
+ <title>Breakfast Recipes</title>
+ <topichead navtitle="Banana Bread">
+  <topicref href="c-bananabread.dita"></topicref>
+  <topicref href="t-bananabread.dita"></topicref>
+ </topichead>
+ <topichead navtitle="Breakfast Burrito Bowl">
+  <topicref href="c-burritobowl.dita"></topicref>
+   <topicref href="t-breakfastburrito.dita"></topicref>
+ </topichead>
+ <topichead navtitle="Biscuits and Gravy">
+  <topicref href="c-biscuits.dita"></topicref>
+   <topicref href="t-biscuitsandgravy.dita"></topicref>
+ </topichead>
+ <topichead navtitle="Omelette">
+  <topicref href="c-omelette.dita"></topicref>
+  <topicref href="t-omelette.dita"></topicref>
+ </topichead>
+ <topichead navtitle="Pancakes">
+  <topicref href="c-pancakes.dita"></topicref>
+   <topicref href="t-pancakes.dita"></topicref>
+ </topichead>
+  <topicref href="m-contactus.md" format="markdown"/>
+  <topicref href="references.md" format="markdown"/>
+
 </map>

@@ -4,9 +4,9 @@
     <title>How to make a vegan breakfast burrito bowl</title>
     <shortdesc/>
     <taskbody>
-        <context conref="breakfastburrito.dita#breakfast-burrito/supplies">
+        <context conref="t-breakfastburrito.dita#breakfast-burrito/supplies">
         </context>
-        <steps conref="breakfastburrito.dita#breakfast-burrito/steps">
+        <steps conref="t-breakfastburrito.dita#breakfast-burrito/steps">
             <step>
 <cmd></cmd>
             </step>

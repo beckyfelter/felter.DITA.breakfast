@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map>
-   <appContext helpID="task_a4f_3z3_kz" path="omelette.html"/>
-   <appContext helpID="task_wps_k1r_kz" path="pancakes.html"/>
-   <appContext helpID="task_rhj_qyh_lz" path="bananabread.html"/>
-   <appContext helpID="breakfast-burrito" path="breakfastburrito.html"/>
-   <appContext helpID="task_xx4_tyh_lz" path="veganbreakfastburrito.html"/>
-   <appContext helpID="biscuits" path="biscuitsandgravy.html"/>
-   <appContext helpID="task_xpn_szh_lz" path="vbiscuitsandgravy.html"/>
-   <appContext helpID="concept_sws_v3m_lz" path="c-omelette.html"/>
-   <appContext helpID="concept_b1t_z3m_lz" path="c-biscuits.html"/>
-   <appContext helpID="concept_bdy_y3m_lz" path="c-burritobowl.html"/>
-   <appContext helpID="concept_o4d_x3m_lz" path="c-pancakes.html"/>
    <appContext helpID="concept_vr1_y3m_lz" path="c-bananabread.html"/>
-   <appContext helpID="food" path="c-disclaimer.html"/>
+   <appContext helpID="bananabread" path="t-bananabread.html"/>
+   <appContext helpID="concept_bdy_y3m_lz" path="c-burritobowl.html"/>
+   <appContext helpID="breakfast-burrito" path="t-breakfastburrito.html"/>
+   <appContext helpID="concept_b1t_z3m_lz" path="c-biscuits.html"/>
+   <appContext helpID="biscuits" path="t-biscuitsandgravy.html"/>
+   <appContext helpID="concept_sws_v3m_lz" path="c-omelette.html"/>
+   <appContext helpID="task_a4f_3z3_kz" path="t-omelette.html"/>
+   <appContext helpID="concept_o4d_x3m_lz" path="c-pancakes.html"/>
+   <appContext helpID="pancakes" path="t-pancakes.html"/>
+   <appContext helpID="contact_us" path="m-contactus.html"/>
+   <appContext helpID="sources" path="references.html"/>
 </map>

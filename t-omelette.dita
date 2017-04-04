@@ -2,21 +2,24 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_a4f_3z3_kz">
     <title>How to make an omelette</title>
-    <shortdesc/>
+    <shortdesc>Omelette information and recipe</shortdesc>
     <taskbody>
         <context>
-            <p> Here are the kitchen supplies needed for this recipe.</p>
+            <p><image href="images/cheeseomelette_80621_16x9.jpg" id="image_phj_254_lz"/></p>
+            <p>Kitchen supplies needed for this recipe:</p>
             <ul>
                 <li>Medium-sized skillet</li>
                 <li>Whisk</li>
                 <li>Large bowl</li>
                 <li>Spatula</li>
             </ul>
-            <p>Here are the food ingredients needed for this recipe. </p>
+            <p>Ingredients needed for this recipe:</p>
             <ul>
-                <li>2 tbsp butter</li>
+                <li audience="mom">2 tbsp butter</li>
+                <li audience="armando">2 tbsp olive oil</li>
                 <li>4 eggs</li>
-                <li>2 tbsp almond milk</li>
+                <li audience="mom">2 tbsp milk</li>
+                <li audience="armando">2 tbsp almond milk</li>
                 <li>¾ tsp salt</li>
                 <li>1/8 tsp freshly ground black pepper</li>
                 <li>1 medium tomato, chopped</li>
@@ -29,8 +32,11 @@
             <p></p>
         </context>
         <steps>
-            <step>
+            <step audience="mom">
                 <cmd>Melt 1 tbsp of butter in medium skillet over medium heat. </cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Drizzle 1 tbsp of olive oil in medium skillet over medium heat. </cmd>
             </step>
             <step>
                 <cmd>Place tomato, zucchini, onion, and green pepper in the skillet and cook for 4-5 minutes until vegetables are tender.</cmd>
@@ -41,9 +47,13 @@
             <step>
                 <cmd>Remove the vegetables from the skillet and transfer into another bowl and sprinkle the remaining 1/4 of salt over them.</cmd>
             </step>
-            <step>
+            <step audience="mom">
                 <cmd>Melt the remaining tablespoon of butter in the skillet over medium heat. When
                     the butter bubbles, pour the egg into the skillet and cook for 2 minutes.</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Drizzle the remaining tablespoon of olive oil in the skillet over medium heat. When
+                    the oil bubbles, pour the egg into the skillet and cook for 2 minutes.</cmd>
             </step>
             <step>
                 <cmd>Gently lift the edges of the omelette with the spatula to let the uncooked part
