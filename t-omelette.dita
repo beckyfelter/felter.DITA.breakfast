@@ -43,10 +43,12 @@
                 <cmd>Place tomato, zucchini, onion, and green pepper in the skillet and cook for 4-5 minutes until vegetables are tender.</cmd>
             </step>
             <step>
-                <cmd>While vegetables are cooking, beat the eggs with the milk, 1/2 salt, and pepper in a large mixing bowl.</cmd>
+                <cmd>While vegetables are cooking, beat the eggs with the milk, 1/2 tsp salt, and
+                    pepper in a large mixing bowl.</cmd>
             </step>
             <step>
-                <cmd>Remove the vegetables from the skillet and transfer into another bowl and sprinkle the remaining 1/4 of salt over them.</cmd>
+                <cmd>Remove the vegetables from the skillet and transfer into another bowl, and
+                    sprinkle the remaining 1/4 of salt over them.</cmd>
             </step>
             <step audience="mom">
                 <cmd>Melt the remaining tablespoon of butter in the skillet over medium heat. When
@@ -62,7 +64,7 @@
                     the omelette looks dry.</cmd>
             </step>
             <step>
-                <cmd>Slide the omelette out of the skillet onto a play. Cut in half and serve.</cmd>
+                <cmd>Slide the omelette out of the skillet onto a plate. Cut in half and serve.</cmd>
             </step>
         </steps>
     </taskbody>

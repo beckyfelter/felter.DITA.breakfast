@@ -14,7 +14,7 @@
             <p>Ingredients needed for this recipe:</p>
             <ul>
                 <li audience="mom">1 pound breakfast sausage, hot or mild</li>
-                <li audience="armando">1 pound Italian grain sausage, hot or mild</li>
+                <li audience="armando">1 pound Italian grain-sausage, hot or mild</li>
                 <li>1/3 cup all-purpose flour</li>
                 <li audience="mom">3-4 cups whole milk, more to taste</li>
                 <li audience="armando">3-4 cups almond milk, more to taste</li>
@@ -29,7 +29,7 @@
                 <cmd>With your finger, tear small pieces of sausage and add them in a single layer to a large heavy skillet.</cmd>
             </step>
             <step audience="armando">
-                <cmd>With your finger, tear small pieces of grain meat sausage and add them in a single layer to a large heavy skillet.</cmd>
+                <cmd>With your finger, tear small pieces of grain-sausage and add them in a single layer to a large heavy skillet.</cmd>
             </step>
             <step  audience="mom">
                 <cmd>Brown the sausage over medium-high heat until no longer pink.</cmd>
@@ -53,7 +53,7 @@
                 <cmd>Sprinkle in the seasoned salt and pepper and continue cooking until very thick and luscious. If it gets too thick too soon, just add another 1/2 cup of milk or more needed.</cmd>
             </step>
             <step>
-                <cmd>Spoon the sausage gravy over warm biscuits and serve immediately.</cmd>
+                <cmd>Spoon the gravy over warm biscuits and serve immediately.</cmd>
             </step>
         </steps>
     </taskbody>
