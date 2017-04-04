@@ -5,7 +5,7 @@
     <shortdesc>Pancakes recipe</shortdesc>
         <taskbody>
             <context>
-                <p><image href="images/Pancakes.jpg" id="image_gg4_f54_lz"/></p>
+                <p/>
                 <p> Here are the kitchen supplies needed for this recipe.</p>
                 <ul>
                     <li>Large bowl</li>
