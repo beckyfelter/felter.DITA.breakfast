@@ -32,6 +32,7 @@
             <p></p>
         </context>
         <steps>
+            <stepsection>Complete the following steps to make an omelette:</stepsection>
             <step audience="mom">
                 <cmd>Melt 1 tbsp of butter in medium skillet over medium heat. </cmd>
             </step>

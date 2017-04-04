@@ -25,6 +25,7 @@
             </ul>
         </context>
         <steps>
+            <stepsection>Complete the following steps to make biscuits and gravy:</stepsection>
             <step audience="mom">
                 <cmd>With your finger, tear small pieces of sausage and add them in a single layer to a large heavy skillet.</cmd>
             </step>

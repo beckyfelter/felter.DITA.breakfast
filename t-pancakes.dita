@@ -23,6 +23,7 @@
                 </ul>
             </context>
             <steps>
+                <stepsection>Complete the following steps to make pancakes:</stepsection>
                 <step>
                     <cmd>In a large bowl, mix flour, sugar, baking powder, and salt.</cmd>
                 </step>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD LW DITA Topic//EN" "topic.dtd">
+<topic id="food">
+  <title>Disclaimer</title>
+  <shortdesc>Food safety disclaimer</shortdesc>
+  <body>
+    <p id="safety">DISCLAIMER: If you have any special dietary requirements or medical conditions, consult a medical professional before following any of the recipes contained in this book.</p>
+  </body>
+</topic>

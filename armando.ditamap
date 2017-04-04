@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
- <title>Breakfast for Mom</title>
+ <title>Breakfast for Armando</title>
  <topichead navtitle="Banana Bread">
   <topicmeta>
    <shortdesc>Information and recipe for banana bread</shortdesc>
@@ -15,14 +15,14 @@
    <shortdesc>Information and recipe for burrito bowls</shortdesc>
   </topicmeta>
   <topicref href="c-burritobowl.dita"></topicref>
-   <topicref href="t-breakfastburrito.dita"></topicref>
+  <topicref href="t-breakfastburrito.dita"></topicref>
  </topichead>
  <topichead navtitle="Biscuits and Gravy">
   <topicmeta>
    <shortdesc>Information and recipe for biscuits and gravy</shortdesc>
   </topicmeta>
   <topicref href="c-biscuits.dita"></topicref>
-   <topicref href="t-biscuitsandgravy.dita"></topicref>
+  <topicref href="t-biscuitsandgravy.dita"></topicref>
  </topichead>
  <topichead navtitle="Omelette">
   <topicmeta>
@@ -37,9 +37,11 @@
    <shortdesc>Information and recipe for pancakes.</shortdesc>
   </topicmeta>
   <topicref href="c-pancakes.dita"></topicref>
-   <topicref href="t-pancakes.dita"></topicref>
+  <topicref href="t-pancakes.dita"></topicref>
  </topichead>
-  <topicref href="m-contactus.md" format="markdown"/>
-  <topicref href="references.md" format="markdown"/>
-
+ <topicref href="m-contactus.md" format="markdown"/>
+ <topicref href="l-safety.dita"/>
+ <topicref href="l-references.dita"/>
+ <topicref href="cleanup.md" format="markdown"/>
+ 
 </map>

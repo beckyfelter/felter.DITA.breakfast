@@ -27,6 +27,7 @@
             </ul>
         </context>
         <steps>
+            <stepsection>Complete the following steps to make a burrito bowl:</stepsection>
             <step>
                 <cmd>Peel sweet potato and microwave for 4 minute.</cmd></step>
             <step>
