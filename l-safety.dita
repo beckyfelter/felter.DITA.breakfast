@@ -4,6 +4,7 @@
   <title>Disclaimer</title>
   <shortdesc>Food safety disclaimer</shortdesc>
   <body>
-    <p id="safety">DISCLAIMER: If you have any special dietary requirements or medical conditions, consult a medical professional before following any of the recipes contained in this book.</p>
+    <p id="safety">DISCLAIMER: If you have any special dietary requirements or medical conditions,
+      consult a medical professional before following any of these recipes.</p>
   </body>
 </topic>

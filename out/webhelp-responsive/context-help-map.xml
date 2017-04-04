@@ -11,5 +11,7 @@
    <appContext helpID="concept_o4d_x3m_lz" path="c-pancakes.html"/>
    <appContext helpID="pancakes" path="t-pancakes.html"/>
    <appContext helpID="contact_us" path="m-contactus.html"/>
-   <appContext helpID="sources" path="references.html"/>
+   <appContext helpID="topic_jy1_yzv_lz" path="l-precautions.html"/>
+   <appContext helpID="clean_up_instructions" path="cleanup.html"/>
+   <appContext helpID="concept_e2r_svv_lz" path="c-sources.html"/>
 </map>

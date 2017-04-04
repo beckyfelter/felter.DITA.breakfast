@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_e2r_svv_lz">
+ <title>Sources</title>
+ <shortdesc>The following list includes outside sources used or adapted for this set of recipes.</shortdesc>
+ <conbody>
+  <p>
+   <ul>
+   <li>Banana Bread:
+    <xref href="http://www.food.com/recipe/best-banana-bread/2886" format="html" scope="external">Best Banana Bread
+   </xref>
+  </li>
+   <li>Biscuits and Gravy:
+    <xref href="http://allrecipes.com/recipe/216391/easy-sausage-gravy-and-biscuits/" format="html" scope="external">Easy Sausage Gravy and Biscuits
+    </xref>
+   </li>
+    <li>Breakfast Burrito Bowls:
+     <xref href="https://www.chowhound.com/recipes/healthy-breakfast-burrito-bowl-31771" format="html" scope="external">Breakfast Burrito Bowls
+     </xref>
+    </li>
+    <li  audience="armando">Pancakes:
+     <xref href="http://www.food.com/recipe/5-minute-vegan-pancakes-132263" format="html" scope="external">5 Minute Vegan Pancakes
+     </xref>
+    </li>
+    <li audience="mom">Pancakes:
+     <xref href="http://allrecipes.com/recipe/21014/good-old-fashioned-pancakes/" format="html" scope="external">Good Old Fashioned Pancakes
+     </xref>
+    </li>
+    <li>Omelette:
+     <xref href="http://www.marthastewart.com/336780/how-to-with-allie-making-omelets/" format="html" scope="external">Perfect Omelette
+     </xref>
+    </li>
+   </ul>
+  </p>
+ </conbody>
+</concept>
