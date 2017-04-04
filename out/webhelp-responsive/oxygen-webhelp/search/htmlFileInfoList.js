@@ -1,0 +1,16 @@
+fil = new Array();
+fil["0"]= "c-bananabread.html@@@Baking banana bread@@@DISCLAIMER: If you have any special dietary requirements or medical conditions, consult a medical professional before following any of these recipes. Banana bread is a moist, sweet bread made from...";
+fil["1"]= "c-biscuits.html@@@Making biscuits and gravy@@@DISCLAIMER: If you have any special dietary requirements or medical conditions, consult a medical professional before following any of these recipes. Biscuits and gravy is a classic Southern breakfast...";
+fil["2"]= "c-burritobowl.html@@@Making a breakfast burrito bowl@@@DISCLAIMER: If you have any special dietary requirements or medical conditions, consult a medical professional before following any of these recipes. A breakfast burrito bowl is a dish composed of...";
+fil["3"]= "c-omelette.html@@@Making an omelette@@@DISCLAIMER: If you have any special dietary requirements or medical conditions, consult a medical professional before following any of these recipes. An omelette is a popular and easy-to-make...";
+fil["4"]= "c-pancakes.html@@@Making pancakes@@@DISCLAIMER: If you have any special dietary requirements or medical conditions, consult a medical professional before following any of these recipes. Pancakes are a popular and easy-to-make breakfast...";
+fil["5"]= "c-sources.html@@@Sources@@@The following list includes outside sources used or adapted for this set of recipes...";
+fil["6"]= "cleanup.html@@@Clean-up Instructions@@@Wait for pot or pan to cool down. Run pot or pan under warm water. Apply dish soap to sponge and gently scrub pot or pan...";
+fil["7"]= "l-precautions.html@@@Safety Precautions@@@Safety tips to use in the kitchen...";
+fil["8"]= "l-safety.html@@@Disclaimer@@@Food safety disclaimer...";
+fil["9"]= "m-contactus.html@@@Contact Us@@@General queries or correspondence : contact@breakfastrecipes.com Technical support : support@breakfastrecipes.com...";
+fil["10"]= "t-bananabread.html@@@How to make banana bread@@@Banana bread recipe...";
+fil["11"]= "t-biscuitsandgravy.html@@@How to make biscuits and gravy@@@Biscuits and gravy recipe...";
+fil["12"]= "t-breakfastburrito.html@@@How to make a breakfast burrito bowl@@@Breakfast burrito bowl recipe...";
+fil["13"]= "t-omelette.html@@@How to make an omelette@@@Omelette recipe...";
+fil["14"]= "t-pancakes.html@@@How to make pancakes@@@Pancakes recipe...";

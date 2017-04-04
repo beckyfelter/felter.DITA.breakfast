@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="concept_vr1_y3m_lz" path="c-bananabread.html"/>
+   <appContext helpID="bananabread" path="t-bananabread.html"/>
+   <appContext helpID="concept_bdy_y3m_lz" path="c-burritobowl.html"/>
+   <appContext helpID="breakfast-burrito" path="t-breakfastburrito.html"/>
+   <appContext helpID="concept_b1t_z3m_lz" path="c-biscuits.html"/>
+   <appContext helpID="biscuits" path="t-biscuitsandgravy.html"/>
+   <appContext helpID="concept_sws_v3m_lz" path="c-omelette.html"/>
+   <appContext helpID="task_a4f_3z3_kz" path="t-omelette.html"/>
+   <appContext helpID="concept_o4d_x3m_lz" path="c-pancakes.html"/>
+   <appContext helpID="pancakes" path="t-pancakes.html"/>
+   <appContext helpID="contact_us" path="m-contactus.html"/>
+   <appContext helpID="topic_jy1_yzv_lz" path="l-precautions.html"/>
+   <appContext helpID="clean_up_instructions" path="cleanup.html"/>
+   <appContext helpID="concept_e2r_svv_lz" path="c-sources.html"/>
+</map>
