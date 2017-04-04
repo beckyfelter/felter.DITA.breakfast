@@ -2,7 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="pancakes">
     <title>How to make pancakes</title>
-    <shortdesc>Pancakes information and recipe</shortdesc>
+    <shortdesc>Pancakes recipe</shortdesc>
         <taskbody>
             <context>
                 <p><image href="images/Pancakes.jpg" id="image_gg4_f54_lz"/></p>

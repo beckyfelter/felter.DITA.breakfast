@@ -3,7 +3,8 @@
 <map>
  <title>Breakfast Recipes</title>
  <topichead navtitle="Banana Bread">
-  <topicref href="c-bananabread.dita"></topicref>
+  <topicref href="c-bananabread.dita">
+  </topicref>
   <topicref href="t-bananabread.dita"></topicref>
  </topichead>
  <topichead navtitle="Breakfast Burrito Bowl">
