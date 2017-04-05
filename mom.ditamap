@@ -39,9 +39,9 @@
   <topicref href="c-pancakes.dita"></topicref>
    <topicref href="t-pancakes.dita"></topicref>
  </topichead>
-  <topicref href="m-contactus.md" format="markdown"/>
- <topicref href="l-precautions.dita"/>
  <topicref href="cleanup.md" format="markdown"/>
+ <topicref href="l-precautions.dita"/>
+ <topicref href="m-contactus.md" format="markdown"/>
  <topicref href="c-sources.dita"/>
 
 </map>

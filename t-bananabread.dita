@@ -15,7 +15,7 @@
             <p>Ingredients needed for this recipe: </p>
             <ul>
                 <li audience="mom">1/2 cup butter</li>
-                <li audience="armando">1/2 cup soy milk</li>
+                <li audience="armando">1/2 cup soy yogurt</li>
                 <li>1 cup sugar</li>
                 <li>2 eggs, beaten</li>
                 <li>3 bananas, finely crushed</li>
@@ -34,7 +34,7 @@
                 <cmd>Cream together butter and sugar.</cmd>
             </step>
             <step audience="armando">
-                <cmd>Cream together soy milk and sugar.</cmd>
+                <cmd>Cream together soy yogurt and sugar.</cmd>
             </step>
             <step>
                 <cmd>Add eggs and crushed bananas and combine well.</cmd>

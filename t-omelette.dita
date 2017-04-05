@@ -39,7 +39,10 @@
             <step audience="armando">
                 <cmd>Drizzle 1 tbsp of olive oil in medium skillet over medium heat. </cmd>
             </step>
-            <step>
+            <step audience="mom">
+                <cmd>Place the sausage, tomato, zucchini, onion, and green pepper in the skillet and cook for 4-5 minutes until vegetables are tender.</cmd>
+            </step>
+            <step audience="armando">
                 <cmd>Place tomato, zucchini, onion, and green pepper in the skillet and cook for 4-5 minutes until vegetables are tender.</cmd>
             </step>
             <step>
@@ -62,6 +65,12 @@
                 <cmd>Gently lift the edges of the omelette with the spatula to let the uncooked part
                     of the eggs flow toward the edges and cook. Continue for 2-3 more minutes until
                     the omelette looks dry.</cmd>
+            </step>
+            <step audience="mom">
+                <cmd>Sprinkle the sausage, vegetables, and cheddar on one side of the eggs and then fold the other side on top.</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Sprinkle the vegetables on one side of the eggs and then fold the other side on top.</cmd>
             </step>
             <step>
                 <cmd>Slide the omelette out of the skillet onto a plate. Cut in half and serve.</cmd>
